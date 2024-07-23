@@ -1,6 +1,6 @@
 Steps to run this Project.
 
-1-Npm init 
+1-npm i
 
 2-Set Env Varibales.
 
